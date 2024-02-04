@@ -1,6 +1,6 @@
  ## Penn Labs Android Technical Challenge 
 The requirements for this challenge was to build an Android App that displayed food trucks and dining halls at Penn along with relevant information. Additional features include a map of all the food trucks, 
-sorting the trucks by distance and rating, and date/time integration in order to update dining hall status/hours. Coming into this challenge, I was not super familiar with Android development so my main goal was to learn and improve my skills
+sorting the trucks by distance and rating, and date/time integration in order to update dining hall status/hours. Coming into this challenge, I wouldn't say I was super familiar with Android development so one of my main goal was to learn and improve my skills
 through the process of completing the challenge.
 ### How to Run
 This project can be used on desktop by opening it in Android Studio and running it on a virtual mobile device. Users will be prompted upon opening the app to approve a permission request to access their location. Please select **precise** 
@@ -21,12 +21,12 @@ each dining day object also contains a list of day part object which contains in
 Throughout the process, I mainly referred to online documentation and some YouTube tutorials whenever I encountered concepts I was unfamiliar with or got stuck. 
 
 Design-wise, my main goal was just to not make the project look super ugly. I definitely spent more of my time working out the logic and learning how to impelment new features instead of thinking about the style. However, I like design a lot
-so if I had more time I would want to make it look nicer. I bascially just followed the screenshots that were given in the write up.
+so if I had more time I would want to make it look nicer. I basically just followed the screenshots that were given in the write up.
 
 ####Some notes:
 - The project is named "justfoodtrucks" but this is not accurate. At first I thought I would only havae time for the food trucks part. I didn't want to go through hassle of all the steps to rename the project.
 - There's a good amount of information that I processed which I didn't utilize, especially with the dining halls. If given more time, I wanted to make the dining halls also clickable, similar to the food trucks so that information like the address
-address and weekly schedule could be displayed. I also would add some sort of sorting/filtering feature because currently the dining halls are just in order they were given in the original file.
+address and weekly schedule could be displayed. I also would add some sort of sorting/filtering feature because currently, the dining halls are just in order they were given in the original file.
 - I think I probably could have implemented the user location feature in a better way. I ran into a lot of bugs when doing this part and spent the most time on it. I think got it working but it still can be a bit buggy sometimes. I thought there should be a way to pass the user location directly into the
 fragments, but I couldn't figure that out so I ended up having a new ViewPageAdapter being set up each time the location is updated. I would definitely focus on spending some more time trying to figure this out.
 
