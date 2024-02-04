@@ -23,7 +23,7 @@ Throughout the process, I mainly referred to online documentation and some YouTu
 Design-wise, my main goal was just to not make the project look super ugly. I definitely spent more of my time working out the logic and learning how to impelment new features instead of thinking about the style. However, I like design a lot
 so if I had more time I would want to make it look nicer. I basically just followed the screenshots that were given in the write up.
 
-####Some notes:
+#### Some notes:
 - The project is named "justfoodtrucks" but this is not accurate. At first I thought I would only havae time for the food trucks part. I didn't want to go through hassle of all the steps to rename the project.
 - There's a good amount of information that I processed which I didn't utilize, especially with the dining halls. If given more time, I wanted to make the dining halls also clickable, similar to the food trucks so that information like the address
 address and weekly schedule could be displayed. I also would add some sort of sorting/filtering feature because currently, the dining halls are just in order they were given in the original file.
@@ -31,7 +31,7 @@ address and weekly schedule could be displayed. I also would add some sort of so
 fragments, but I couldn't figure that out so I ended up having a new ViewPageAdapter being set up each time the location is updated. I would definitely focus on spending some more time trying to figure this out.
 
 
-##Final Thoughts
+## Final Thoughts
 Overall, this was definitely a time consuming challenge but I had fun doing it and enjoyed the learning process. I wish I had more time to flesh it out but I'm decently proud of the final outcome. I thought the food truck part
 would actually be quite useful if it was fully implemented since food trucks often don't show up on Google Maps and have limited reviews. It would be cool to have an app updated with local food trucks where Penn students could leave reviews.
 As an avid food truck enjoyer, I think I would probably use it. I hope to make more cool apps like this and further my mobile development skills. Thank you for considering my application!
