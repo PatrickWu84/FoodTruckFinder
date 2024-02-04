@@ -32,5 +32,5 @@ fragments, but I couldn't figure that out so I ended up having a new ViewPageAda
 
 
 ## Final Thoughts
-Overall, this was definitely a time-consuming challenge but I had fun doing it and enjoyed the learning process. I wish I had more time to flesh it out but I'm decently proud of the final outcome even if it's not polished. I especially enjoyed the food truck part, I thought it could be quite useful if it was fully implemented since food trucks often don't show up on Google Maps and have limited reviews. It would be cool to have an app updated with local food trucks where Penn students could leave reviews.
+Overall, this was definitely time-consumign to do but I had a lot fun doing it and enjoyed the learning process. I wish I had more time to flesh it out but I'm decently proud of the final outcome even if it's not polished. I especially enjoyed the food truck part, I thought it could be quite useful if it was fully implemented since food trucks often don't show up on Google Maps and have limited reviews. It would be cool to have an app updated with local food trucks where Penn students could leave reviews.
 As an avid food truck enjoyer, I think I would probably use it. I hope to make more cool apps like this and further my mobile development skills. Thank you for considering my application!
