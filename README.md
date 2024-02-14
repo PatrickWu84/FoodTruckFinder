@@ -1,6 +1,5 @@
- ## Penn Labs Android Technical Challenge 
-The requirements for this challenge was to build an Android App that displayed food trucks and dining halls at Penn along with relevant information. Additional features include a map of all the food trucks, 
-sorting the trucks by distance and rating, and date/time integration in order to update dining hall status/hours. Coming into this challenge, I wouldn't say I was super familiar with Android development so one of my main goals was to learn and improve my skills
+I built an Android App that displays food trucks and dining halls at Penn along with relevant information. Additional features include a map of all the food trucks, 
+sorting the trucks by distance and rating, and date/time integration to update dining hall status/hours. Coming into this challenge, I wouldn't say I was super familiar with Android development so one of my main goals was to learn and improve my skills
 through the process of completing the challenge.
 ### How to Run
 This project can be used on desktop by opening it in Android Studio and running it on a virtual mobile device. Users will be prompted upon opening the app to approve a permission request to access their location. Please select **precise** 
@@ -33,4 +32,4 @@ fragments, but I couldn't figure that out so I ended up having a new ViewPageAda
 
 ## Final Thoughts
 Overall, this was definitely time-consuming to do but I had a lot of fun doing it and enjoyed the learning process. I wish I had more time to flesh it out but I'm decently proud of the final outcome even if it's not polished. I especially enjoyed the food truck part, I thought it could be quite useful if it was fully implemented since food trucks often don't show up on Google Maps and have limited reviews. It would be cool to have an app updated with local food trucks where Penn students could leave reviews.
-As an avid food truck enjoyer, I think I would probably use it. I hope to make more cool apps like this and further my mobile development skills. Thank you for considering my application!
+As an avid food truck enjoyer, I think I would probably use it. I hope to make more cool apps like this and further my mobile development skills.
