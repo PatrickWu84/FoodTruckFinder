@@ -1,6 +1,5 @@
 I built an Android App that displays food trucks and dining halls at Penn along with relevant information. Additional features include a map of all the food trucks, 
-sorting the trucks by distance and rating, and date/time integration to update dining hall status/hours. Coming into this challenge, I wouldn't say I was super familiar with Android development so one of my main goals was to learn and improve my skills
-through the process of completing the challenge.
+sorting the trucks by distance and rating, and date/time integration to update dining hall status/hours.
 ### How to Run
 This project can be used on desktop by opening it in Android Studio and running it on a virtual mobile device. Users will be prompted upon opening the app to approve a permission request to access their location. Please select **precise** 
 tracking and approve it in order to use the sort-by-distance feature. Finally, due to some of the date and time features, it requires a minimum SDK of 26. 
@@ -29,7 +28,3 @@ address and weekly schedule could be displayed. I also would add some sort of so
 - I think I probably could have implemented the user location feature in a better way. I ran into a lot of bugs when doing this part and spent the most time on it. I think got it working but it still can be a bit buggy sometimes. I thought there should be a way to pass the user location directly into the
 fragments, but I couldn't figure that out so I ended up having a new ViewPageAdapter being set up each time the location is updated. I would definitely focus on figuring this out with more time.
 
-
-## Final Thoughts
-Overall, this was definitely time-consuming to do but I had a lot of fun doing it and enjoyed the learning process. I wish I had more time to flesh it out but I'm decently proud of the final outcome even if it's not polished. I especially enjoyed the food truck part, I thought it could be quite useful if it was fully implemented since food trucks often don't show up on Google Maps and have limited reviews. It would be cool to have an app updated with local food trucks where Penn students could leave reviews.
-As an avid food truck enjoyer, I think I would probably use it. I hope to make more cool apps like this and further my mobile development skills.
